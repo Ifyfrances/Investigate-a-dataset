@@ -17,6 +17,9 @@ This dataset collects information from 100k medical appointments in Brazil and i
 ● ‘Neighborhood’ indicates the location of the hospital.
 ● ‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.
 ● The encoding of the last column: it says ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.
+
 2. I cleaned the data using pandas and numpy
+
 3. I created visualisations to analyse and answer some of the questions posed to get a better insight into the data.
+
 4. I created a report to share findings
