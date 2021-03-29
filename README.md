@@ -1,4 +1,5 @@
-# Investigate-a-dataset, as part of Udacity data analyst nanodegree program. 
+# Investigate-a-dataset 
+This project is part of Udacity data analyst nanodegree program. 
 The goal of this project is to analyse a dataset and communicate finding using Python libraries such as Pandas, NumPy, Matplotlib.
 
 Learnings:
